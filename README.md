@@ -13,4 +13,4 @@ I found Java to be a much more appropriate language as it is much much faster an
 ![Pixelated](Depixelate/generated/Sample%20.png)
 
 ## How to use
-Simply open the repository up using eclipse or with your favorite code editor. All of the .java files are in /Depixelate/src/depixelate.
+Simply open the repository up using eclipse or with your favorite code editor. All of the .java files are [here](/Depixelate/src/depixelate).
