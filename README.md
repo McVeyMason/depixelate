@@ -5,5 +5,5 @@ Uknown image:
 ![Source images](Depixelate/images/large.png?raw=true)
 
 Guessed image:
-![Pixelated](Depixelate/gernerated/Sample%20pix.png)
-![Pixelated]('Depixelate/gernerated/Sample .png')
+![Pixelated](Depixelate/generated/Sample%20pix.png)
+![Pixelated](Depixelate/generated/Sample .png)
