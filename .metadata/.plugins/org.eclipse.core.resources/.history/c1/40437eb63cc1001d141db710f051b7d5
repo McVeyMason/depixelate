@@ -1,0 +1,12 @@
+package depixilate;
+
+public class Main {
+
+	public static void main(String[] args) {
+		GeneratePix g = new GeneratePix();
+		g.render("Test Test test");
+		ComparePix comp = new ComparePix("images\\Test Test testpix.png", 12);
+		comp.runCompare();
+	}
+
+}
